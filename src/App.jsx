@@ -1,5 +1,6 @@
 import Ex1 from './components/ex1.jsx'
 import Ex2 from './components/ex2.jsx'
+import Ex3 from './components/ex3.jsx'
 
 function App() {
   return (
@@ -9,6 +10,9 @@ function App() {
     </div>  
     <div>
       <Ex2/>
+    </div>
+    <div>
+      <Ex3/>
     </div>
     </>
   )
