@@ -5,6 +5,7 @@ import Ex4 from './components/ex4.jsx'
 import Ex5 from './components/ex5.jsx';
 import Ex6 from './components/ex6.jsx';
 import Ex7 from './components/ex7.jsx';
+import Ex8 from './components/ex8.jsx'
 
 function App() {
   return (
@@ -29,6 +30,9 @@ function App() {
     </div>
     <div>
       <Ex7/>
+    </div>
+    <div>
+      <Ex8/>
     </div>
     </>
   )
